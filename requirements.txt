@@ -1,0 +1,3 @@
+streamlit
+pandas # If you use it for anything else
+# Add any other libraries your app still uses (e.g., plotly)
